@@ -1,4 +1,4 @@
-# 
+# 即时 Sublime Text 脚本 Mac OS版 | 自动 Sublime Text 脚本 PC Windows版。集成 SSL证书管理 和 智能搜索，跨平台性能最大化。
 
 
 
